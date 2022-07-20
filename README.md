@@ -9,7 +9,7 @@ This is a demonstration app for Fresh that shows how to use SSR, the islands fun
 
 # Live Demo
 
-You can view the [live demo here](fresh-preact-pokemon.deno.dev/)
+You can view the [live demo here](https://fresh-preact-pokemon.deno.dev/)
 
 ### Usage
 
