@@ -7,6 +7,10 @@ This is a demonstration app for Fresh that shows how to use SSR, the islands fun
 - **[Preact](https://preactjs.com/)** (10.8.2)
 - **[tailwind](https://tailwindcss.com/)** (0.16.17)
 
+# Live Demo
+
+You can view the [live demo here](fresh-preact-pokemon.deno.dev/)
+
 ### Usage
 
 Start the project:
